@@ -1,18 +1,33 @@
 .button1 {
-    border: solid black;
-    background-color: blueviolet;
-    color: yellow;
-    border-radius: 17px;
+  border: solid black;
+  background-color: blueviolet;
+  color: yellow;
+  border-radius: 17px;
 }
 .button2 {
-    border: solid black;
-    background-color: yellow;
-    color: blueviolet;
-    border-radius: 17px;
+  border: solid black;
+  background-color: yellow;
+  color: blueviolet;
+  border-radius: 17px;
 }
 
 body {
-    margin: 0;
-    padding: 0;
-    background-color: darkblue;
+  margin: 0;
+  padding: 0;
+  background-color: darkblue;
+}
+
+a {
+  position: absolute;
+  font-size: 2em;
+  color: blueviolet;
+  top: 0;
+  right: 0;
+  text-decoration: none;
+  padding: 5px;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: yellow;
 }
