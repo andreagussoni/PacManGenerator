@@ -1,9 +1,11 @@
 # PacManGenerator
 
 This is a beginner-level project developed during MIT course, it is a fun little game where you can generat e and spin around as many pacman as you want.
-You can make it work by downloading the repo in a directory and opening html file in your browser, if you want it locally.
+You can make it work by downloading the repo in a directory and opening html file in your browser, if you want it locally
+
 or go to : andreagussoni.github.io/PacManGenerator
-for future improvements: collision checking, obstacles and ghosts can be added, some styling.
+
+For future improvements: collision checking, obstacles and ghosts can be added, some styling.
 
 MIT LICENSE
 
